@@ -1,4 +1,4 @@
-Project 1: Practice with command line interface, VS studio code, and executing non-web server Node.js Javascript code.
+[Project 1]: (https://github.com/jr-herrera/cit281-p1) Practice with command line interface, VS studio code, and executing non-web server Node.js Javascript code.
 Project 2: Using git via CLI and VSCode Source Control while refactoring code
 Project 3: Created code modules and web server Node.js Javascript code. Used Fastify with GET verbs and query parameters
 Project 4: Created a REST API, used Postman, JSON, and fastify POST, PUT, GET, and DELETE verbs
